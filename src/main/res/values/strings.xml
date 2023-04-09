@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp5</string>
+    <string name="category_form">add category</string>
+    <string name="product_form">add product</string>
+    <string name="products_grid">Category Products</string>
+    <string name="edit_product_form">Edit Product</string>
+</resources>
